@@ -1,0 +1,7 @@
+{
+  "title": "01. Vascular Scaffold Example",
+  "color": "0x0071e3",
+  "description": "Drop your real .stl files inside this folder, and update this config file with your project details.",
+  "isReversed": false,
+  "asset_name": "placeholder.jpg"
+}
